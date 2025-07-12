@@ -52,6 +52,8 @@ A **Java-based console application** designed to manage and simplify hospital bi
 
 ```
 <img width="405" height="584" alt="Picture1" src="https://github.com/user-attachments/assets/48196354-6c76-4c8a-9e6c-cb01be914828" />
+<img width="595" height="407" alt="image" src="https://github.com/user-attachments/assets/366b2991-8582-4996-a173-d1a8ed608a2a" />
+
 
 
 ```
