@@ -34,16 +34,27 @@ A **Java-based console application** designed to manage and simplify hospital bi
 - Interfaces and Inheritance for modularity
 
 ---
+## 💡 How to Run
+
+1. Clone the repository or download the source files.
+2. Compile the Java code:
+   ```
+   javac Hospital.java
+   ```
+3. Run the program:
+   ```
+   java one
+   ```
+4. Follow the console prompts to test the system.
+---
 
 ## 📷 Sample Output
 
 ```
-Welcome to the Hospital  
-Enter the Customer information  
-Enter Name: Ravi  
-Enter Age: 45  
-...  
-Total payable bill (incl with GST 5% and Discount 10%) : ₹12,450  
+<img width="633" height="913" alt="image" src="https://github.com/user-attachments/assets/4a040164-326d-482a-a70f-57d5a3a30c81" />
+
+<img width="930" height="636" alt="image" src="https://github.com/user-attachments/assets/9db25557-c18b-45c1-b7c6-2a313fe68111" />
+
 ```
 
 ---
@@ -65,21 +76,6 @@ Total payable bill (incl with GST 5% and Discount 10%) : ₹12,450
 | Mythri J          | 
 | Sai Sravan Kumar  |   
 | Ragavi M          | 
-
----
-
-## 💡 How to Run
-
-1. Clone the repository or download the source files.
-2. Compile the Java code:
-   ```
-   javac Hospital.java
-   ```
-3. Run the program:
-   ```
-   java one
-   ```
-4. Follow the console prompts to test the system.
 
 ---
 
