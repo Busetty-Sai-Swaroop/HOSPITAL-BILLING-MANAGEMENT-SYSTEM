@@ -1,5 +1,5 @@
 
-# 🏥 Hospital Billing Management System
+# Hospital Billing Management System
 
 A **Java-based console application** designed to manage and simplify hospital billing and patient information. This system allows healthcare staff to input patient details, assign diseases and specialists, calculate ICU charges, apply GST, and give discounts — generating a complete, transparent bill.
 
@@ -51,9 +51,8 @@ A **Java-based console application** designed to manage and simplify hospital bi
 ## 📷 Sample Output
 
 ```
-<img width="633" height="913" alt="image" src="https://github.com/user-attachments/assets/4a040164-326d-482a-a70f-57d5a3a30c81" />
+<img width="405" height="584" alt="Picture1" src="https://github.com/user-attachments/assets/48196354-6c76-4c8a-9e6c-cb01be914828" />
 
-<img width="930" height="636" alt="image" src="https://github.com/user-attachments/assets/9db25557-c18b-45c1-b7c6-2a313fe68111" />
 
 ```
 
