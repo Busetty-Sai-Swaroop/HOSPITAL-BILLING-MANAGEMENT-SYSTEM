@@ -39,11 +39,11 @@ A **Java-based console application** designed to manage and simplify hospital bi
 1. Clone the repository or download the source files.
 2. Compile the Java code:
    ```
-   javac Hospital.java
+   javac HBMS.java
    ```
 3. Run the program:
    ```
-   java one
+   java HBMS
    ```
 4. Follow the console prompts to test the system.
 ---
