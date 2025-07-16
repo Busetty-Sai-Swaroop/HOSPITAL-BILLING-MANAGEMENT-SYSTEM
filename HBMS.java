@@ -1,13 +1,10 @@
 import java.util.*;
-
 interface tax {
     public void gst(double g);
 }
-
 class maintenance {
     int m = 1500;
 }
-
 class Hospital extends maintenance implements tax {
     String name;
     int age;
@@ -17,11 +14,9 @@ class Hospital extends maintenance implements tax {
     int ICU = 1200;
     double bal = m;
     int z;
-
     Hospital() {
         System.out.println("Welcome to the Hospital");
     }
-
     void get_details() {
         Scanner scr = new Scanner(System.in);
         System.out.println("Enter the Customer information");
@@ -36,16 +31,13 @@ class Hospital extends maintenance implements tax {
         System.out.println("Enter Address:");
         address = scr.next();
     }
-
     void total(int t) {
         bal += t;
     }
-
     public void gst(double g) {
         g = g / 100 * bal;
         bal += g;
     }
-
     void discount(double f) {
         z = (int) f;
         f = f / 100 * bal;
