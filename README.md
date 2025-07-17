@@ -47,7 +47,6 @@ A **Java-based console application** designed to manage and simplify hospital bi
    ```
 4. Follow the console prompts to test the system.
 ---
----
 
 ## 📂 Project Structure
 
