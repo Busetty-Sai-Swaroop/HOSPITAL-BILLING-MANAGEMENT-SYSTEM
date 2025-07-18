@@ -70,4 +70,4 @@ A **Java-based console application** designed to manage and simplify hospital bi
 
 ## 📄 License
 
-This project is developed for educational purposes. You may reuse and modify with proper credit to the
+This project is developed for educational purposes. You may reuse and modify with proper
